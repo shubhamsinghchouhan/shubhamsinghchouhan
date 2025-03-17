@@ -5,6 +5,7 @@ Hi there 👋
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
 
-https://shubhamsinghchouhan.github.io/portfolio/
 
-[![linkedin badge](https://img.shields.io/badge/Shubham%20Singh%20Chouhan-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/shubhamsinghchouhan/)
+Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://shubhamsinghchouhan.github.io/portfolio/)
+
+LinkedIn: [![linkedin badge](https://img.shields.io/badge/Shubham%20Singh%20Chouhan-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/shubhamsinghchouhan/)
